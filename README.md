@@ -12,7 +12,7 @@ Further when I tried the dotenv npm I received a similar error message (see imag
 
 I ended up coding a js file and a key template file but was unable to complete the assginment and am currently utterly confused as to WTF I did wrong.
 
-Had to work this weekend so I didn't have as much time as I'd liek but if someone can go over this with me it wuld be great. 
+Had to work this weekend so I didn't have as much time as I'd liek but if someone can go over this with me it would be great. 
 
 
 
