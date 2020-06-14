@@ -2,6 +2,8 @@
 
 So I tried multiple times to pull from bands in town, but the API wouldn't work.
 
+I attempted doing a twitter API instead but they need several days to authroize my use :/
+
 Kept getting this error that it could not be found (see images)
 
 I also installed Axios apm but it didn't stick and kept sayign the file path wasn't there. (see images)
